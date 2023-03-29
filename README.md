@@ -38,4 +38,5 @@ You can click the Preview link to take a look at your changes.
 
 ![MuzahidulIslam1 most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzahidulIslam1&layout=compact)
 
-
+## Featured Repo:
+[solarproject] (https://github.com/MuzahidulIslam1/solarproject)
