@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Muzahidul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Focused+Learner;Python|OOP|Machine+Learning|Deep+Learning;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Focused+Learner;Python|OOP|Machine+Learning|Deep+Learning|MLops;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Tanweer-Raza&label=Profile%20views&color=0e75b6&style=plastic" alt="Muzahidul Islam" /> 
+	<img src="https://komarev.com/ghpvc/?username=Muzahidul Islam &label=Profile%20views&color=0e75b6&style=plastic" alt="Muzahidul Islam" /> 
 	</a>
 </p>- 👋 Hi, I’m @Muzahidul Islam a physicist who fell in love with data and machine learning 
 - 👀 I’m interested in DATA SCIENCE , MACHINE LEARNING INTUITIONS , DATA WRANGLING , DASHBOARDING ETC
