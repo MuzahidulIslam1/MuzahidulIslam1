@@ -8,11 +8,11 @@
 
 
 </p>
-- 👋 Hi, I’m @Muzahidul Islam a physicist who fell in love with data and machine learning 
-- 👀 I’m interested in DATA SCIENCE , MACHINE LEARNING INTUITIONS , DATA WRANGLING , DASHBOARDING ETC
-- 🌱 I’m currently learning DATA SCIENCE
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 You can contact me muzahidulislam01226@gmail.com
+- :👋 Hi, I’m @Muzahidul Islam a physicist who fell in love with data and machine learning 
+- :👀 I’m interested in DATA SCIENCE , MACHINE LEARNING INTUITIONS , DATA WRANGLING , DASHBOARDING ETC
+- :🌱 I’m currently learning DATA SCIENCE
+- :💞️ I’m looking to collaborate on Data Science Projects
+- :📫 You can contact me muzahidulislam01226@gmail.com
 ## PROFILE
 As a motivated data scientist, I specialize in analyzing complex data and using
 statistical and machine learning techniques with tools like Python and SQL. I
