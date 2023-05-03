@@ -6,10 +6,9 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Muzahidul Islam &label=Profile%20views&color=0e75b6&style=plastic" alt="Muzahidul Islam" /> 
-	</a>
-</p>- 👋 Hi, I’m @Muzahidul Islam a physicist who fell in love with data and machine learning 
+
+</p>
+- 👋 Hi, I’m @Muzahidul Islam a physicist who fell in love with data and machine learning 
 - 👀 I’m interested in DATA SCIENCE , MACHINE LEARNING INTUITIONS , DATA WRANGLING , DASHBOARDING ETC
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on Data Science Projects
