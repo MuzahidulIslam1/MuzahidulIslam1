@@ -13,7 +13,8 @@
 <h5>- :🌱 I’m currently learning DATA SCIENCE</h5>
 <h5>- :💞️ I’m looking to collaborate on Data Science Projects</h5>
 <h5>- :📫 You can contact me muzahidulislam01226@gmail.com</h5>
-## PROFILE
+
+<h2>PROFILE</h2>
 As a motivated data scientist, I specialize in analyzing complex data and using
 statistical and machine learning techniques with tools like Python and SQL. I
 am an effective communicator and can present my findings to both technical
